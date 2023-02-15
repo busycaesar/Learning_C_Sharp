@@ -1,0 +1,15 @@
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\obj\Debug\net7.0\Is_It_Palindrome.csproj.AssemblyReference.cache
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\obj\Debug\net7.0\Is_It_Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\obj\Debug\net7.0\Is_It_Palindrome.AssemblyInfoInputs.cache
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\obj\Debug\net7.0\Is_It_Palindrome.AssemblyInfo.cs
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\obj\Debug\net7.0\Is_It_Palindrome.csproj.CoreCompileInputs.cache
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\bin\Debug\net7.0\Is_It_Palindrome.exe
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\bin\Debug\net7.0\Is_It_Palindrome.deps.json
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\bin\Debug\net7.0\Is_It_Palindrome.runtimeconfig.json
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\bin\Debug\net7.0\Is_It_Palindrome.dll
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\bin\Debug\net7.0\Is_It_Palindrome.pdb
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\obj\Debug\net7.0\Is_It_Palindrome.dll
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\obj\Debug\net7.0\refint\Is_It_Palindrome.dll
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\obj\Debug\net7.0\Is_It_Palindrome.pdb
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\obj\Debug\net7.0\Is_It_Palindrome.genruntimeconfig.cache
+E:\TDSB\Learnings\Learning C#\Is_It_Palindrome\obj\Debug\net7.0\ref\Is_It_Palindrome.dll

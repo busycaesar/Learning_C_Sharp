@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TDSB\\Learnings\\C#\\Ex_Files_Learning_C_Sharp\\Guess the number\\Guess the number.csproj": {}
+    "E:\\TDSB\\Learnings\\Learning C#\\Guess_The_Number\\Guess the number.csproj": {}
   },
   "projects": {
-    "E:\\TDSB\\Learnings\\C#\\Ex_Files_Learning_C_Sharp\\Guess the number\\Guess the number.csproj": {
+    "E:\\TDSB\\Learnings\\Learning C#\\Guess_The_Number\\Guess the number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TDSB\\Learnings\\C#\\Ex_Files_Learning_C_Sharp\\Guess the number\\Guess the number.csproj",
+        "projectUniqueName": "E:\\TDSB\\Learnings\\Learning C#\\Guess_The_Number\\Guess the number.csproj",
         "projectName": "Guess the number",
-        "projectPath": "E:\\TDSB\\Learnings\\C#\\Ex_Files_Learning_C_Sharp\\Guess the number\\Guess the number.csproj",
+        "projectPath": "E:\\TDSB\\Learnings\\Learning C#\\Guess_The_Number\\Guess the number.csproj",
         "packagesPath": "C:\\Users\\busyc\\.nuget\\packages\\",
-        "outputPath": "E:\\TDSB\\Learnings\\C#\\Ex_Files_Learning_C_Sharp\\Guess the number\\obj\\",
+        "outputPath": "E:\\TDSB\\Learnings\\Learning C#\\Guess_The_Number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\busyc\\AppData\\Roaming\\NuGet\\NuGet.Config",

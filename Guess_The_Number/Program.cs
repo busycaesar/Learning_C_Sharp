@@ -39,7 +39,7 @@ namespace ProgChallenge
 
                 // UPDATING THE POINTS AND ATTEMPTS OF THE USER.
                 attempts++;
-                points = update_points((new int[] { )points, get_difference((number, guessed_numb)), get_difference(min_max_range)));
+                points = update_points((points, get_difference((number, guessed_numb)), get_difference(min_max_range)));
 
                 // THIS WILL TAKE ACTION ACCORDING TO THE RESULT.
                 if (result == "Success")
@@ -62,7 +62,7 @@ namespace ProgChallenge
                     attempts = 0;
                     points = 0;
 
-                    if (only_allow_int("Do you want to change the range?\n1: Change\n0: Use Same Range\n") == 1) min_max_range = get_number_range();
+                    if (only_allow_int("\nDo you want to change the range?\n1: Change\n0: Use Same Range\n") == 1) min_max_range = get_number_range();
 
                     number = new Random().Next(min_max_range.min, min_max_range.max);
 

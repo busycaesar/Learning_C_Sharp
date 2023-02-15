@@ -13,3 +13,18 @@ E:\TDSB\Learnings\C#\Ex_Files_Learning_C_Sharp\Guess the number\obj\Debug\net7.0
 E:\TDSB\Learnings\C#\Ex_Files_Learning_C_Sharp\Guess the number\obj\Debug\net7.0\Guess the number.pdb
 E:\TDSB\Learnings\C#\Ex_Files_Learning_C_Sharp\Guess the number\obj\Debug\net7.0\Guess the number.genruntimeconfig.cache
 E:\TDSB\Learnings\C#\Ex_Files_Learning_C_Sharp\Guess the number\obj\Debug\net7.0\ref\Guess the number.dll
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\obj\Debug\net7.0\Guess the number.csproj.AssemblyReference.cache
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\obj\Debug\net7.0\Guess the number.GeneratedMSBuildEditorConfig.editorconfig
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\obj\Debug\net7.0\Guess the number.AssemblyInfoInputs.cache
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\obj\Debug\net7.0\Guess the number.AssemblyInfo.cs
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\obj\Debug\net7.0\Guess the number.csproj.CoreCompileInputs.cache
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\obj\Debug\net7.0\Guess the number.dll
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\obj\Debug\net7.0\refint\Guess the number.dll
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\obj\Debug\net7.0\Guess the number.pdb
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\bin\Debug\net7.0\Guess the number.exe
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\bin\Debug\net7.0\Guess the number.deps.json
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\bin\Debug\net7.0\Guess the number.runtimeconfig.json
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\bin\Debug\net7.0\Guess the number.dll
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\bin\Debug\net7.0\Guess the number.pdb
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\obj\Debug\net7.0\Guess the number.genruntimeconfig.cache
+E:\TDSB\Learnings\Learning C#\Guess_The_Number\obj\Debug\net7.0\ref\Guess the number.dll
