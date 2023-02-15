@@ -1,6 +1,6 @@
 # Guess_the_number
 
-## This is a small CLI based game which allows the players to choose the range of numbers. The program then will pick any random number from within that range and let the user guess that number.
+## This is a console based game which allows the players to choose the range of numbers. The program then will pick any random number from within that range and let the user guess that number.
 
 <img src="Images/1.png" />
 
